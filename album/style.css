@@ -1,0 +1,32 @@
+body{
+
+}
+.sec--unica{
+	width: 100%;
+}
+
+.tr--unica{
+	background: #DCDCDC;
+}
+
+.td--1-2-3{
+	height: 105px;
+	background: #E6E6FA;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.conteudo{
+	width: 20%;
+	background: #BEBEBE;
+}
+
+.td--img{
+	background: #DCDCDC;
+}
+
+.imagens{
+	height: 70px;
+}
